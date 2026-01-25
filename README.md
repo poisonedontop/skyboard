@@ -1,4 +1,5 @@
 # SkyBoard
+<<<<<<< HEAD
 I have been playing Hypixel Skyblock for a while now and while it's great, having keybinds to commands makes basically everything much more efficient. The problem with my normal keyboard is that it's too cluttered to set all command keybinds there as it will overlap with other keybinds.
 That's why I'm creating this deck, to make a clean and efficient way to play the game. I haven't had much prior experience with electronics, so I think this will be a great first project! <br/>
 Screenshot of the full case: <br/>
@@ -18,3 +19,6 @@ BOM: <br/>
 
 2x SK6812 MINI-E LEDs <br/>
 3D printed case
+=======
+I have been playing Hypixel Skyblock for a while now and while it's great, having keybinds to commands makes basically everything much more efficient. The problem with my normal keyboard is that it's too cluttered to set all command keybinds there as it will overlap with other keybinds. That's why I'm creating this deck, to make a clean and efficient way to play the game. I haven't had much prior experience with electronics, so I think this will be a great first project!
+>>>>>>> 1544b70 (Added ground to the LEDs)
